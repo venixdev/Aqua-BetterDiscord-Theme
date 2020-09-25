@@ -6,12 +6,12 @@
  * @donate https://paypal.me/ImVenix
  * @authorId 332226184169521152
 */
-@import url("https://github.com/venixdev/Aqua-BetterDiscord-Theme/blob/master/base.css");
+@import url("https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/base.css");
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu');
-@import url("https://github.com/venixdev/Aqua-BetterDiscord-Theme/blob/master/user-tags.css");
-@import url("https://github.com/venixdev/Aqua-BetterDiscord-Theme/blob/master/badges.css");
-@import url('https://github.com/venixdev/Aqua-BetterDiscord-Theme/blob/master/base2.css');
-@import url('https://github.com/venixdev/Aqua-BetterDiscord-Theme/blob/master/base3.css');
+@import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
+@import url("https://codedotspectra.github.io/themes/core/badges.css");
+@import url('https://gibbu.github.io/BetterDiscord-Themes/HorizontalServerlist/base.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
 :root {
 --background-image: url('https://i.imgur.com/bjlCGMv_d.webp?maxwidth=728&fidelity=grand');
 --background-image-blur:10px;
