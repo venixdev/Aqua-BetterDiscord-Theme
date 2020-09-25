@@ -14,7 +14,7 @@
 @import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
 :root {
 --background-image: url('https://i.imgur.com/bjlCGMv_d.webp?maxwidth=728&fidelity=grand');
---background-image-blur:10px;
+--background-image-blur: 10px;
 --popout-modal-image: url('https://i.imgur.com/bjlCGMv_d.webp?maxwidth=728&fidelity=grand');
 --popout-modal-blur: 0px;
 --serverlist-brightness: 0;
@@ -29,8 +29,8 @@
 --gradient-secondary: 63,81,181;
 --window-padding: 3px;
 --window-roundness: 22px;
---scrollbar-colour: rgb(255, 255, 255);
---link-colour: rgb(255, 115, 0);
+--scrollbar-colour: rgba(255,255,255,0.05);
+--link-colour: rgba(32,205,255,0.9);
 --show-gift-gif-buttons: none;
 --update-notice-1: none;
 
